@@ -22,9 +22,12 @@ The Online Voting System is a web-based application built using Java Servlet, JS
 * Only users aged **18 or above** can register as candidates or voters.
 * A voter can **vote only once** after verification.
 * Voting results are dynamically calculated and displayed.
+
 ### 📹 Video Demonstration
 
-[![Watch the video](https://drive.google.com/file/d/1NIDNQGdKouc-2G4dflnHGxw4WO6E73Dv/view?usp=sharing)]([https://drive.google.com/file/d/your_video_id/view?usp=sharing](https://drive.google.com/file/d/1oPRg_CCmRR05hsFq53ztAg1WZrO2Qz3K/view?usp=sharing))
+Watch the project video on Google Drive:
+
+[Project Video](https://drive.google.com/file/d/1oPRg_CCmRR05hsFq53ztAg1WZrO2Qz3K/view?usp=sharing)
 
 *(Add if needed)*
 
