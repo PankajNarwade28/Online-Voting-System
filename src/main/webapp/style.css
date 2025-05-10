@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+	    .back-button {
+      display: block;
+      width: fit-content;
+      margin: 0 auto 1.5rem auto;
+      padding: 0.6rem 1.2rem;
+      background-color: green;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      transition: background-color 0.3s ease;
+    }
+
+    .back-button:hover {
+      background-color: #0056b3;
+    }

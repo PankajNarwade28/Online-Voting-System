@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voting System Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f8;
+            text-align: center;
+            padding-top: 50px;
+        }
+
+        h1 {
+            color: #333;
+        }
+        .menu {
+            margin: 20px auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .menu button {
+            width: 250px;
+            padding: 12px 20px;
+            margin: 10px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .menu button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Voting System Menu</h1>
+    <div class="menu">
+        <form action="registerVoter.html" method="get">
+            <button type="submit">Register Voter</button>
+        </form>
+
+        <form action="registerCandidate.html" method="get">
+            <button type="submit">Register Candidate</button>
+        </form>
+
+        <form action="giveVote.jsp" method="get">
+            <button type="submit">Give Vote</button>
+        </form>
+
+        <form action="showVoters.jsp" method="get">
+            <button type="submit">Show Voters</button>
+        </form>
+
+        <form action="showCandidate.jsp" method="get">
+            <button type="submit">Show Candidates</button>
+        </form>
+
+        <form action="votingData.jsp" method="get">
+            <button type="submit">Show Voting Data</button>
+        </form>
+    </div>
+</body>
+</html>
