@@ -29,10 +29,9 @@ Watch the project video on Google Drive:
 
 [Project Video](https://drive.google.com/file/d/1oPRg_CCmRR05hsFq53ztAg1WZrO2Qz3K/view?usp=sharing)
 
-*(Add if needed)*
+ ![Image Alt Text](https://drive.google.com/file/d/1NIDNQGdKouc-2G4dflnHGxw4WO6E73Dv/view?usp=sharing)
 
 ## 📜 License
 
 This project is for educational purposes only.
-
-i have to add a video in this file from pc how can i add it
+ 
