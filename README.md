@@ -29,7 +29,7 @@ Watch the project video on Google Drive:
 
 [Project Video](https://drive.google.com/file/d/1oPRg_CCmRR05hsFq53ztAg1WZrO2Qz3K/view?usp=sharing)
 
- ![Image Alt Text](https://drive.google.com/file/d/1NIDNQGdKouc-2G4dflnHGxw4WO6E73Dv/view?usp=sharing)
+ ![Image Alt Text](..\src\main\1.jpg)
 
 ## 📜 License
 
